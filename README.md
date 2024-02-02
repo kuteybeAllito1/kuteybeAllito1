@@ -28,4 +28,4 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kuteybeallito1&" alt="kuteybeallito1" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuteybeallito1" alt="kuteybeallito1" /></a> </p>
+
