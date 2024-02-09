@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **###**
 
-- 🌱 I’m currently learning **cyber security**
+- 🌱 I’m currently learning **Flutter & Dart**
 
 - 👌 All the time **Keep learning**
 
