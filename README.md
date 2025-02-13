@@ -7,7 +7,7 @@
 ---
 
 ## 👋 About Me
-🎯 Hi, I'm **Kuteybe Allito**, a passionate **Full Stack Developer**!  
+🎯 Hi, I'm **Kuteybe Allito**, a passionate **mobile applications**!  
 💻 I specialize in **Laravel, PHP, MySQL, and Flutter**, and I love developing **web and mobile applications**.  
 🔥 I enjoy **learning new technologies** and optimizing application performance.  
 
@@ -54,7 +54,7 @@
 ---
 
 ## 📫 Connect With Me
-📧 Email: **kuteybeAllito1@gmail.com**  
+📧 Email: **allito123k@gmail.com**  
 🌍 LinkedIn: [Kuteybe Allito](https://www.linkedin.com/in/kuteybe-allito-497240348)  
 💻 GitHub: [kuteybeAllito1](https://github.com/kuteybeAllito1)  
 
