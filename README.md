@@ -1,15 +1,20 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kuteybeallito1&label=Profile%20views&color=0e75b6&style=flat" alt="kuteybeallito1" />
+</p>
+
+<p align="center">
     <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
 </p>
 
 ---
 
 ## 👋 About Me
-🎯 Hi, I'm **Kuteybe Allito**, a passionate **mobile applications**!  
+🎯 Hi, I'm **Kuteybe Allito**, a passionate **Full Stack Developer**!  
 💻 I specialize in **Laravel, PHP, MySQL, and Flutter**, and I love developing **web and mobile applications**.  
 🔥 I enjoy **learning new technologies** and optimizing application performance.  
+📫 How to reach me: **allito123k@gmail.com**  
 
 ---
 
@@ -34,14 +39,31 @@
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50">
+</p>
+
+### 🛠 **Other Technologies & Tools**
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50">
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kuteybeAllito1&show_icons=true&theme=radical" width="48%">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuteybeAllito1&theme=radical" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kuteybeallito1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kuteybeallito1&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuteybeallito1&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -53,15 +75,20 @@
 
 ---
 
-## 📫 Connect With Me
-📧 Email: **allito123k@gmail.com**  
-🌍 LinkedIn: [Kuteybe Allito](https://www.linkedin.com/in/kuteybe-allito-497240348)  
-💻 GitHub: [kuteybeAllito1](https://github.com/kuteybeAllito1)  
+## 🌍 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/kuteybe-allito-497240348" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" height="40" width="40" />
+</a>
+<a href="https://www.facebook.com/kutayba.allito?mibextid=aeuhqq" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook profile" height="40" width="40" />
+</a>
+</p>
 
 ---
 
 🚀 **Thanks for visiting my GitHub profile!** 😊  
 ⭐ Don't forget to **star** my repositories if you like them!  
-💬 Feel free to **connect with me on LinkedIn** for collaborations.  
+💬 Feel free to **connect with me on LinkedIn & Facebook** for collaborations.  
 
 ---
