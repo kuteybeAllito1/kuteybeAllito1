@@ -1,54 +1,56 @@
-<h1 align="center">Hi 👋, I'm Kuteybe Allito</h1>
-<h3 align="center">Computer engineering student at Bartin University in Turkey</h3>
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuteybeallito1&label=Profile%20views&color=0e75b6&style=flat" alt="kuteybeallito1" /> </p>
-
-- 🔭 I’m currently working on **###**  
-- 🌱 I’m currently learning **Flutter & Dart**  
-- 👌 All the time **Keep learning**  
-- 📫 How to reach me **allito123k@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/kutayba.allito?mibextid=aeuhqq" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook profile" height="30" width="40" />
-</a>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-</a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
+---
+
+## 🔥 About Me
+👋 Hi, I'm a passionate **Full Stack Developer** who loves building powerful web and mobile applications.  
+💻 My main focus is **backend development** using **Laravel & PHP**, but I also develop **mobile apps** with **Flutter & Dart**.  
+📚 I enjoy learning new technologies and improving my coding skills.  
+
+---
+
+## 🛠️ Technologies & Skills
+### 🌐 **Backend & Web Development**
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuteybeallito1&show_icons=true&locale=en&layout=compact" alt="kuteybeallito1" /></p>
+### 📱 **Mobile Development**
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_.NET_logo.svg" width="50">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuteybeallito1&show_icons=true&locale=en" alt="kuteybeallito1" /></p>
+### 🔥 **Programming Languages**
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuteybeallito1&" alt="kuteybeallito1" /></p>
+---
+
+## 📊 GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%">
+</p>
+
+---
+
+## 📫 Connect With Me
+📧 Email: **your.email@example.com**  
+🌎 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+🔗 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
+
+---
+
+🚀 **Thanks for visiting my GitHub profile!** 😊  
+⭐ Don't forget to **star** my repositories if you like them!
