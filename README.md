@@ -1,19 +1,20 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="100">
+    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="400">
 </p>
 
 ---
 
-## 🔥 About Me
-👋 Hi, I'm a passionate **Full Stack Developer** who loves building powerful web and mobile applications.  
-💻 My main focus is **backend development** using **Laravel & PHP**, but I also develop **mobile apps** with **Flutter & Dart**.  
-📚 I enjoy learning new technologies and improving my coding skills.  
+## 👋 About Me
+🎯 Hi, I'm **Kuteybe Allito**, a passionate **Full Stack Developer**!  
+💻 I specialize in **Laravel, PHP, MySQL, and Flutter**, and I love developing **web and mobile applications**.  
+🔥 I enjoy **learning new technologies** and optimizing application performance.  
 
 ---
 
 ## 🛠️ Technologies & Skills
+
 ### 🌐 **Backend & Web Development**
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50">
@@ -45,12 +46,22 @@
 
 ---
 
+## 🚀 Featured Projects
+📌 **E-commerce Platform** – Laravel & MySQL-based online store.  
+📌 **Task Manager App** – Flutter & Dart mobile application for productivity.  
+📌 **Blog System** – PHP & Laravel blog platform with user authentication.  
+
+---
+
 ## 📫 Connect With Me
-📧 Email: **your.email@example.com**  
-🌎 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-🔗 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)  
+📧 Email: **kuteybeAllito1@gmail.com**  
+🌍 LinkedIn: [Kuteybe Allito](https://www.linkedin.com/in/kuteybe-allito-497240348)  
+💻 GitHub: [kuteybeAllito1](https://github.com/kuteybeAllito1)  
 
 ---
 
 🚀 **Thanks for visiting my GitHub profile!** 😊  
-⭐ Don't forget to **star** my repositories if you like them!
+⭐ Don't forget to **star** my repositories if you like them!  
+💬 Feel free to **connect with me on LinkedIn** for collaborations.  
+
+---
