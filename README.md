@@ -31,7 +31,7 @@ Reach me at: **allito123k@gmail.com**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" alt="Flutter">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50" alt="Dart">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/.NET_MAUI_Logo.svg" width="50" alt=".NET MAUI">
+<img src="https://raw.githubusercontent.com/cezaraugusto/devicons-maui/main/assets/maui-original.svg" width="50" alt=".NET MAUI">
 </p>
 
 ### 🔥 Programming Languages
