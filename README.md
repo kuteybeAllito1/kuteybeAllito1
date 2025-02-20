@@ -40,8 +40,6 @@ Reach me at: **allito123k@gmail.com**
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" alt="Git">
   <!-- إضافة أيقونات لغات برمجة أخرى مشابهة لعرض لارافيل -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="TypeScript">
 </p>
 
 ### 🛠 Other Technologies & Tools
