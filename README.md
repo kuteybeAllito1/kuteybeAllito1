@@ -35,6 +35,7 @@ Reach me at: **allito123k@gmail.com**
 
 ### 🔥 Programming Languages
 <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" alt="C#">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python">
   <!-- إضافة أيقونات لغات برمجة أخرى مشابهة لعرض لارافيل -->
@@ -42,7 +43,6 @@ Reach me at: **allito123k@gmail.com**
 
 ### 🛠 Other Technologies & Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" alt="C#">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML5">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" alt="Linux">
