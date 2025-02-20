@@ -22,7 +22,7 @@ Reach me at: **allito123k@gmail.com**
 ### 🌐 Backend & Web Development
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" alt="PHP">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50" alt="Laravel">
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="50" alt="Laravel">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite">
 </p>
@@ -31,7 +31,7 @@ Reach me at: **allito123k@gmail.com**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" alt="Flutter">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50" alt="Dart">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_.NET_logo.svg" width="50" alt=".NET">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/.NET_MAUI_Logo.svg" width="50" alt=".NET MAUI">
 </p>
 
 ### 🔥 Programming Languages
