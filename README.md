@@ -61,9 +61,7 @@ Reach me at: **allito123k@gmail.com**
   <img src="https://github-readme-stats.vercel.app/api?username=kuteybeallito1&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuteybeallito1&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 ---
 
