@@ -2,7 +2,7 @@
 
 <!-- ------------------------------------------------ HERO SECTION ------------------------------------------------ -->
 <!-- Replace the banner below with a custom cover (GIF or PNG, 1200×400 works well) -->
-p align="center">
+
   <img src="https://raw.githubusercontent.com/kuteybeAllito1/kuteybeAllito1/main/assets/banner_placeholder.gif" alt="Kuteybe Allito Banner"/>
 </p>
 
