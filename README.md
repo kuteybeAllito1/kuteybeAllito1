@@ -1,9 +1,5 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile!</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kuteybeallito1&label=Profile%20views&color=0e75b6&style=flat" alt="kuteybeallito1" />
-</p>
-
 <!-- ------------------------------------------------ HERO SECTION ------------------------------------------------ -->
 <!-- Replace the banner below with a custom cover (GIF or PNG, 1200×400 works well) -->
 <p align="center">
