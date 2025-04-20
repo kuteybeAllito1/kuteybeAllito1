@@ -22,18 +22,19 @@ Mobile‑app developer • Flutter &amp; Dart enthusiast • Passionate life‑l
 ---
 
 ## ⚡ Quick Overview
-- 🔭 **Currently working on:** Polishing my .NET MAUI skills and building advanced Flutter apps.  
-- 🌱 **Learning:** Clean Architecture & TDD for scalable mobile projects.  
-- 👯 **Open to:** Collaborating on open‑source Flutter or Laravel projects.  
-- 💬 **Ask me about:** Flutter, Laravel, Firebase, REST APIs, mobile CI/CD pipelines.  
-- 🎯 **Career goal:** Become a go‑to expert in cross‑platform development and mentor new devs.
+- 🔭 **Current focus:** Refining my Flutter craft and shipping polished, production‑ready mobile apps.  
+- 🌱 **Actively mastering:** Clean Architecture, TDD, and modern state‑management patterns (BLoC, Riverpod) to scale Flutter projects.  
+- 👯 **Looking for:** Open‑source collaboration and freelance gigs that mix Flutter front‑ends with Laravel back‑ends.  
+- 💬 **Talk to me about:** Flutter, Dart, Firebase, Laravel APIs, App Store / Play Store release pipelines. 
+- 🎯 **Career vision:** Become a recognized leader in Flutter mobile development and mentor the next generation of app creators.  
+
 
 ---
 
 ## 🛠️ Tech Stack
 | Mobile & Cloud | Back‑End & DB | Languages / ML | Dev Tools |
 |----------------|---------------|----------------|-----------|
-| ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?logo=dotnet&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) | ![Laravel](https://img.shields.io/badge/Laravel-E34F26?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?logo=microsoftsqlserver&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-68217A?logo=csharp&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) |
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) ![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?logo=dotnet&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![Laravel](https://img.shields.io/badge/Laravel-E34F26?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) |
 
 ---
 
